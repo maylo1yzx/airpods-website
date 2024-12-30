@@ -19,7 +19,7 @@ This repository contains the code for a modern, responsive AirPods website. It f
 - **Responsive Design:** Optimized for various screen sizes.
 
 ## Demo
-You can view a live demo of the website [here](https://github.com/maylo1yzx/airpods-website).
+You can view a live demo of the website [here](https://maylo1yzx.github.io/airpods-website/).
 
 ## Technologies Used
 - **HTML5**: Structure of the website.
